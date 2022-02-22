@@ -1,0 +1,168 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The wonderful confirmation of the succession of the kingdom of Christ at 1697 deriv'd from the 42 moons of the Beast, then ending : given by prophecy so as to be calculated according to the famous cycle of the moon, styl'd the Golden Number, found out first by the famous Athenian astronomer Meton, about the year of the world 3574, embraced by the fathers of the Nicene Council about the year of our Lord 325, for the setting their antipaschal or Easter, supposited to the true Christian paschal of the Lord's Supper and the Lord's Day ordained by Christ / digested into these propositions following.</title>
+            <author>Beverley, Thomas.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1690</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 11 KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A27636</idno>
+            <idno type="STC">Wing B2188</idno>
+            <idno type="STC">ESTC R35688</idno>
+            <idno type="EEBO-CITATION">15539391</idno>
+            <idno type="OCLC">ocm 15539391</idno>
+            <idno type="VID">103651</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A27636)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 103651)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1583:2)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The wonderful confirmation of the succession of the kingdom of Christ at 1697 deriv'd from the 42 moons of the Beast, then ending : given by prophecy so as to be calculated according to the famous cycle of the moon, styl'd the Golden Number, found out first by the famous Athenian astronomer Meton, about the year of the world 3574, embraced by the fathers of the Nicene Council about the year of our Lord 325, for the setting their antipaschal or Easter, supposited to the true Christian paschal of the Lord's Supper and the Lord's Day ordained by Christ / digested into these propositions following.</title>
+                  <author>Beverley, Thomas.</author>
+               </titleStmt>
+               <extent>4 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1690?]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Attributed to Beverley by Wing and NUC pre-1956 imprints.</note>
+                  <note>Imprint suggested by Wing.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Millennium --  Early works to 1800.</term>
+               <term>Second Advent --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-04</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-05</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-10</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2011-10</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:103651:1" rendition="simple:additions"/>
+            <head>The Wonderful Confirm<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>tion of the Succeſſion of the <hi>Kingdom of Chriſt</hi> at <hi>1697,</hi> Deriv'd from the <hi>42 Moons</hi> of the <hi>Beaſt,</hi> then Ending; Given by <hi>Prophecy,</hi> ſo as to be Calculated according to the Famous <hi>Cycle of the Moon,</hi> ſtyl'd, the <hi>Golden Number,</hi> found out firſt by the Famous <hi>Athenian Aſtronomer, Meton,</hi> about the Year of the World, <hi>3574.</hi> Embraced by the <hi>Fathers</hi> of the <hi>Nicene Council,</hi> about the <hi>Year</hi> of our Lord <hi>325.</hi> for the ſettling their <hi>Antipaſchal,</hi> or <hi>Eaſter,</hi> ſuppoſited to the True <hi>Chriſtian Paſchal</hi> of the <hi>Lord's Supper,</hi> and of the <hi>Lord's Day,</hi> Ordained by Chriſt: Digeſted into theſe <hi>Propoſitions</hi> following.</head>
+            <p>
+               <hi>Propoſition</hi> 1. IT is evident Letter of Scripture That the Compre<g ref="char:EOLhyphen"/>henſive <hi>Line of Time</hi> from <hi>Cyrus</hi> to the <hi>Kingdom of Chriſt,</hi> or to the <hi>Sanctuary Cleans'd;</hi> Given by <hi>Daniel</hi> very ear<g ref="char:EOLhyphen"/>ly, <hi>c.</hi> 8. (and therefore muſt needs comprize in it the 1260 <hi>Days,</hi> and 42 <hi>Months</hi>) is compos'd into <hi>Eves,</hi> and ſo hath a Seed of <hi>Moons</hi> in them, as Time of the Night.</p>
+            <p>
+               <hi>Prop.</hi> 2. It is alſo as evident Letter of Scripture, That the <hi>Prophecy of the Revelation</hi> Aſſigns <hi>Forty Two Moons</hi> to the <hi>Gen<g ref="char:EOLhyphen"/>tiles,</hi> and <hi>Forty Two Moons</hi> to the <hi>Beaſt,</hi> as Time of <hi>the Night,</hi> to the <hi>Children of the Night,</hi> and of Darkneſs. <hi>Rev.</hi> 113. <hi>c.</hi> 13.5.</p>
+            <p>
+               <hi>Prop.</hi> 3. The ſame <hi>Prophecy</hi> hath out of the 2300 <hi>Morns</hi> in the ſame <hi>Viſion</hi> of <hi>Daniel,</hi> aſſign'd 1260 Days to the <hi>Witneſſes,</hi> and to the <hi>Woman</hi> the <hi>Church,</hi> as Time of the <hi>Sun,</hi> and of the <hi>Day,</hi> as to the <hi>Children</hi> of the <hi>Light,</hi> and of the <hi>Day. c.</hi> 11.3. <hi>c.</hi> 12.</p>
+            <p>
+               <hi>Prop.</hi> 4. The <hi>Moon</hi> is ſaid by the <hi>Pſalmist,</hi> Pſal. 104.19. to be <hi>Appointed for Seaſons,</hi> in their great Variety, according to the many Wandrings of its Motion; But the <hi>Sun</hi>
+               <note n="*" place="margin">Sol vi<g ref="char:EOLhyphen"/>am ſu<g ref="char:EOLhyphen"/>am no<g ref="char:EOLhyphen"/>vit; Lu<g ref="char:EOLhyphen"/>na non item.</note>
+               <hi>knows its Going down,</hi> according to the Certainty and Steddineſs of its Motion, and Conſtancy to its own Path; Words very little
+<pb n="2" facs="tcp:103651:2"/>differing from that ſaying of the Wiſe; <hi>The Sun knows its</hi> and is firm to it; <hi>The Moon doth not ſo.</hi>
+            </p>
+            <p>
+               <hi>Prop.</hi> 5. Accordingly, as th<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>260 <hi>Days,</hi> ſettled by the <hi>Spirit of Prophecy,</hi> as the ſure and ſteddy Gauge of Time, ſo the <hi>Moons</hi> are fitted by the ſame <hi>Spirit of Prophecy,</hi> to deſcribe ſome Un<g ref="char:EOLhyphen"/>evenneſſes, and Inequalities in the State of the <hi>Apostacy;</hi> viz. ſuch as ariſe from the <hi>Beast's</hi> not coming into his Succeſſion ſo ſoon as the <hi>Apostacy</hi> began: To define which Time, and what ſpace it was, and how it was ſupplied and born up, the <hi>Moons</hi> of the <hi>Gentiles,</hi> and of the <hi>Beast,</hi> are of moſt peculiar, parti<g ref="char:EOLhyphen"/>cular, and eſpecial Uſe.</p>
+            <p>
+               <hi>Prop.</hi> 6. One of the greateſt Performances of <hi>Astronomy,</hi> aſſiſted by him who <hi>Teacheth Man Knowledge,</hi> hath been to Adjuſt the Time of the <hi>Moon</hi> to the Time of the <hi>Sun,</hi> that there might be both a double Character, and Aſſurance of Time, as by knowing, not only what Year of the <hi>Sun,</hi> but what pro<g ref="char:EOLhyphen"/>portionable Time of the <hi>Moon</hi> Anſwered to that of the <hi>Sun,</hi> that there might be by the compare a Proportioning any Time Depending on the <hi>Moon</hi> to that of the <hi>Sun.</hi>
+            </p>
+            <p>This, after ſeveral former Attempts, that fail'd, was perfect<g ref="char:EOLhyphen"/>ed by <hi>Meton,</hi> near the Beginning of <hi>Daniel</hi>'s <hi>Weeks,</hi> and recei<g ref="char:EOLhyphen"/>ved by All the Knowing World ſince; and Celebrated by that Great Name of the <hi>Golden Number,</hi> or the <hi>Decem-Novennal Cy<g ref="char:EOLhyphen"/>cle,</hi> the <hi>Cycle</hi> of <hi>Nineteen Years:</hi> By which it is certainly found, the Motion of the <hi>Sun</hi> takes up a Thirty Third Part more than the <hi>Moon,</hi> apply it to whatſoever part of Time: Apply it then to 1260 <hi>Days</hi> of <hi>Years</hi> of the <hi>Sun,</hi> 
+               <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>4<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <hi>Moons</hi> are 38 <hi>Days</hi> of <hi>Years</hi> leſs than the 1260. But beſides, by applying the Proportions of the <hi>Golden Number</hi> to Any Year, either of the <hi>Sun,</hi> or of the <hi>Moon,</hi> of which we have the certain <hi>Epoch,</hi> or Time of Com<g ref="char:EOLhyphen"/>mencement, or to any part of the ſame <hi>Year,</hi> we may equal the Times of the <hi>Sun</hi> and of the <hi>Moon</hi> to one another, by taking a<g ref="char:EOLhyphen"/>way a Thirty Third part of the <hi>Sun</hi>'s Time; or, which is moſt Natural, by Adding a Thirty Third part to the <hi>Moon,</hi> becauſe the Sun's Motion is the moſt ſteddy Gauge of Time. And this is done by Adding an Allowed or Granted Proportion of Time, as if it were Real Time, and placing it as we find fitteſt for our purpoſe; but under this Caution, if it be publick Time, it muſt
+<pb n="3" facs="tcp:103651:2"/>be by publick Agreement, as we double every Fourth Year a Day in the Latter End of the Twelfth Month, we, <hi>too Pagan-like,</hi> call <hi>February;</hi> not that ſo much is due to that Year Alone, but to every one of the Four Years, <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> 
+               <hi>Fourth</hi> part, to keep the Courſe of Time ſomewhat near equal. And this is call'd <hi>Intercalation.</hi> And thus <hi>Maimonides,</hi> to adjuſt the <hi>Jewiſh New Moons,</hi> to the Time of the <hi>Paſſover,</hi> allows Seven <hi>Intercalary Moons,</hi> to Seven Years in every Nineteen, <hi>viz.</hi> 3.6, 8, 11, 14, 17. 19th, year.</p>
+            <p>And to the very ſame purpoſe, the Entring <hi>Antichristian A<g ref="char:EOLhyphen"/>postacy,</hi> even at the Time of the <hi>Nicene Council,</hi> made the ſame Uſe of this <hi>Cycle,</hi> and took it in: as Thought: into the Service of Chriſtianity; when they were growing then to be the <hi>Synagogue</hi> of <hi>Sathan,</hi> ſaying, They are <hi>Jews</hi> in obſerving a <hi>Paſch,</hi> or <hi>Eaſter,</hi> in <hi>Remembrance of the Death</hi> and <hi>Reſurrection of Chriſt; but are not, but do Lie;</hi> For Chriſt ordain'd the <hi>Lord's Supper,</hi> and the <hi>Lord's Day</hi> on purpoſe to Fore-prize ſuch Humane Inſtitutions upon Time: But however, this Gol<g ref="char:EOLhyphen"/>den Number hath herein all the Confirmation that can be, it be<g ref="char:EOLhyphen"/>ing wonderfully Order'd by Providence; Time of the Moon ſhould be made ſo Remarkable in ſuch a Solemnity as that of <hi>Eaſter,</hi> ſo great in the Antichriſtian Synagogue, and on which in <hi>Victor,</hi> the firſt Effort of Antichriſt Fell; and which is yet Retain'd in Proteſtant Churches, that did not Reform lower than that <hi>Synagogue,</hi> Riſing in that <hi>Nicene</hi> Councel.</p>
+            <p>
+               <hi>Prop.</hi> 7. There is juſt Reaſon, ſeeing the Spirit of God hath poſitively Nam'd <hi>Moons,</hi> taken out of the 2300 <hi>Eves,</hi> (which muſt needs be the Time therefore of the Moon) to obſerve where the <hi>Beast's Moons</hi> begin, and where they end. The Succeſſion of the <hi>Beaſt</hi> to the <hi>Seventh King,</hi> but no <hi>Head;</hi> is ſo poſitively declared, <hi>Rev.</hi> 17. that it can be no way doubted or denied. For that Thoſe <hi>Seven Heads</hi> are <hi>Heads</hi> of the <hi>Roman</hi> Government and <hi>City;</hi> Even the moſt Zealous <hi>Romaniſts,</hi> that are Judicious, neither do nor can ſo much as call into Queſtion; and hath been fully made out; as alſo, That the Law of Succeſſion requires, That the <hi>Heads</hi> and <hi>Kings</hi> ſhould not enterfere, but come orderly, one after the other. <note n="*" place="margin">God's Call out of <hi>Ba<g ref="char:EOLhyphen"/>bylon.</hi>
+               </note> So then the <hi>Beaſt,</hi> that was the <hi>Eighth King,</hi> muſt immediately ſucceed the <hi>Seventh,</hi> but not en<g ref="char:EOLhyphen"/>terfere
+<pb n="4" facs="tcp:103651:3"/>with him, or come before he was wholly Gone off.</p>
+            <p>
+               <hi>Auguſtulus</hi> then being the Laſt of thoſe Chriſtian Emperors of <hi>Rome,</hi> who made up the <hi>Seventh King,</hi> when he went off, imme<g ref="char:EOLhyphen"/>diately the <hi>Eighth King</hi> came on, at 38 years after, the 1260 days of years began, or at Juſt Two Nineteens, Order'd by Provi<g ref="char:EOLhyphen"/>denceſo, to Lead by the <hi>Golden Number,</hi> to Time of the Moon.</p>
+            <p>That being at 475. ending, and in the Year 476. the proportion of <hi>Lunar Time</hi> will Allow but 1222 Years to the <hi>Forty Two Months of Years:</hi> So then hereby it is moſt certainly known, that the <hi>Beast's</hi> Reign muſt End at 1697 For ſo 1222 Added to 475 make. And thus that ſo Celebra<g ref="char:EOLhyphen"/>ted <hi>Golden Number</hi> Aſſures the Kingdom of Chriſt in its Suc<g ref="char:EOLhyphen"/>ceſſion at 1697. ſeeing the ſame Law of Succeſſion holds in the Kingdom of <hi>Chriſt,</hi> that, as in all Succeſſions, Admits no Gap.</p>
+            <p>And then according to the Law of <hi>Intercalation,</hi> the <hi>Beasts Months</hi> are ſupplied by the <hi>Gentiles</hi> Months; becauſe the <hi>Beaſt</hi> had <hi>Time, Times</hi> and <hi>Half a Time;</hi>
+               <note n="*" place="margin">Or <hi>1260</hi> Days of Years.</note> and he not coming into Succeſſion time enough for that <hi>Time, Times</hi> and <hi>Half a Time,</hi> the Months of the <hi>Gentiles,</hi> as his People, intercalate, or ſup<g ref="char:EOLhyphen"/>ply the <hi>Beaſt's</hi> Months; where they are to be ſupplied, and where there is Supply ready for them<note n="*" place="margin">
+                  <hi>Viz.</hi> At the <hi>1260</hi> days begin<g ref="char:EOLhyphen"/>ning; For as ſoon as the <hi>Time, Times, Half Time</hi> of the <hi>Beaſt</hi> begin in the <hi>Gentiles 42 Months,</hi> the <hi>1260 Days</hi> begin alſo.</note>: And then the <hi>Gentiles</hi> Months become one with the <hi>Beaſt's,</hi> as they muſt needs; be<g ref="char:EOLhyphen"/>cauſe Power was given to him over <hi>Tongues, People</hi> and <hi>Nati<g ref="char:EOLhyphen"/>ons,</hi> as the <hi>Time, Times, Half Time</hi> were given to Him alſo.</p>
+            <p>Thus every way that Great Poſition, That the Kingdom of Chriſt ſhall be in its Succeſſion 1697. is Aſſured to us, and this way particularly, I cannot but look upon it aſſured beyond any Poſſibility of Doubt; For we do but thus plainly Reckon; The <hi>Beaſts</hi> Moons or Months Begin 475 Ending, They can, as Time of the Moon or Eves of years, make no more than 1222 years; Theſe from 475, end therefore with the 1260 days of years at 1697. And therefore I heartily pray, we may take notice, the Kingdom of God is come nigh to us.</p>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:103651:3"/>
+         </div>
+      </body>
+   </text>
+</TEI>
